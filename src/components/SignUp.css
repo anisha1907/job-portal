@@ -1,0 +1,48 @@
+ .form-control:focus{
+    border-color: blue;
+    box-shadow: none;
+}
+
+.form-group{
+    padding: 10px;
+    align-items: center;
+    margin-left: 550px;
+}
+
+.outer h1{
+    text-align: center;
+    margin-left: 200px;
+    padding-bottom: 15px;
+}
+
+.form-control{
+    padding: 5px;
+    align-self: stretch;
+    width: 300px;
+}
+.custom-control-label{
+    font-weight: 400;
+}
+
+.extra-text, .extra-text a{
+    text-align: center;
+    
+    font-size: 13px;
+    padding-top: 10px;
+
+}
+.extra-text{
+    margin-left: 40px;
+}
+
+.btn{
+    margin-left: 610px;
+    margin-top: 50px;
+    padding: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    cursor: pointer;
+    font-weight: bold;
+    background: darkcyan;
+
+}

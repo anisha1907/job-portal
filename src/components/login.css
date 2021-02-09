@@ -1,0 +1,47 @@
+.LoginForm{
+    border: black;
+    border-width: 2;
+}
+
+.LoginBtn{
+    background:brown ;
+    color: white;
+}
+
+
+.forgotbtn{
+    background:none;
+    border: none;
+    color: blue;
+    padding: 0;
+    margin-top:0 ;
+    margin-left: 565px;
+}
+
+
+.section2{
+    margin-left: 565px;
+    margin-top: 50px;
+    align-items: center;
+  
+}
+
+.register{
+    margin:20px 0 0 70px ;
+    
+}
+
+.registerBtn{
+    
+    margin:0;
+    padding:0;
+    background: none;
+    border: none;
+    color: blue;
+    text-decoration-line: underline;
+}
+
+.RecruiterBtn{
+    margin:20px 20px 0 0;
+    
+}
